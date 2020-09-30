@@ -1,1 +1,1 @@
-php-snacks-b1
+hp-snacks-b1
